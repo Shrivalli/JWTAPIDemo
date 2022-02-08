@@ -1,0 +1,729 @@
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\hp\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\HEMANT\Desktop\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Adarsh Srivastava\Downloads\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.api.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.core.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.framework.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+D:\ProjectUpdate\Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Kavitha\Desktop\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Adarsh Srivastava\Downloads\My CTS Project\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Kavitha\Desktop\CTS Final\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Kavitha\Desktop\Retail Banking System\My CTS Project\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\Kavitha\Desktop\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\899105\Downloads\RBS + Test\RBS + Test\AuthorizationMicroservice\bin\Debug\net5.0\log4net.config
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\log4net.config
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\899339\OneDrive - Cognizant\Desktop\Down\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\log4net.config
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csprojAssemblyReference.cache
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899105\Downloads\Retail\Updated\latest\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\log4net.config
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\appsettings.json
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\899105\Downloads\AuthApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899105\Downloads\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\log4net.config
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\appsettings.json
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899105\Downloads\Retail\Updated\Azure uploaded\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\log4net.config
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\appsettings.json
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\nunit.engine.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\nunit.engine.api.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\nunit.engine.core.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.exe
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\nunit.framework.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\899105\Downloads\Retail\AuthApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+C:\Users\899105\Downloads\Retail\AuthApi\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\log4net.config
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\appsettings.json
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\nunit.engine.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\nunit.engine.api.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\nunit.engine.core.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.exe
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\nunit.framework.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+G:\CTS Data\Solutions to Handson\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\log4net.config
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\appsettings.json
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\NUnit3.TestAdapter.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\NUnit3.TestAdapter.pdb
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\nunit.engine.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\nunit.engine.api.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\nunit.engine.core.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.exe
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\Microsoft.DotNet.InternalAbstractions.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\nunit.framework.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\bin\Debug\net5.0\System.Xml.XPath.XmlDocument.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+G:\CTS Data\Solutions to Handson\JWT APIDemo\EmpAuthApi\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
